@@ -934,7 +934,7 @@ set "requestUrl=%hostsUrl%?t=%cacheBuster%"
 echo Checking hosts file...
 
 if exist "%SystemRoot%\System32\curl.exe" (
-    curl -L -s --fail -o "%tempFile%" "%requestUrl%"
+    curl -L -s -o "%tempFile%" "%requestUrl%"
 ) else (
     powershell -NoProfile -Command ^
         "$url = '%requestUrl%';" ^
