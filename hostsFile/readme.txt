@@ -1,0 +1,1 @@
+hosts Кидать в папку (C:\Windows\System32\drivers\etc) с заменой.
