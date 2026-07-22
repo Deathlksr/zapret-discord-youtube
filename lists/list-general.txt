@@ -78,8 +78,6 @@ usercontent.dev
 tgram.org
 torg.org
 
-workupload.com
-
 osu.ppy.sh
 ppy.sh
 
