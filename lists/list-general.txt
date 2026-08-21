@@ -1,3 +1,7 @@
+namemc.com
+
+technical.city
+
 rutracker.org
 
 soundcloud.com
@@ -80,8 +84,10 @@ usercontent.dev
 tgram.org
 torg.org
 
+*.osu.ppy.sh
 osu.ppy.sh
 ppy.sh
+*.ppy.sh
 
 modrinth.com
 

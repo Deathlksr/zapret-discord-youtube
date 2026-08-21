@@ -32,26 +32,24 @@
 2.58.104.4 bm7.ppy.sh
 2.58.104.5 bm10.ppy.sh
 77.223.98.115 bm11.osu.ppy.sh
-
-# Test Osu Maps Domain (Works)
-# 77.223.98.115 bm11.osu.ppy.sh
+77.223.98.115 bm14.osu.ppy.sh
 
 # Update Games
-2.58.104.7 m1.ppy.sh
-2.58.104.8 m2.ppy.sh
-2.58.104.9 m3.ppy.sh
+77.223.98.115 m1.ppy.sh
+77.223.98.115 m2.ppy.sh
+77.223.98.115 m3.ppy.sh
 
 # Osu Others Tunnels
-2.58.104.11 notify.ppy.sh
-2.58.104.12 assets.ppy.sh
-2.58.104.13 a.ppy.sh
-2.58.104.14 b.ppy.sh
-2.58.104.15 c.ppy.sh
-2.58.104.16 i.ppy.sh
-2.58.104.17 s.ppy.sh
-2.58.104.18 auth.ppy.sh
-2.58.104.19 sentry.ppy.sh
-2.58.104.20 auth-files.ppy.sh
+77.223.98.115 notify.ppy.sh
+77.223.98.115 assets.ppy.sh
+77.223.98.115 a.ppy.sh
+77.223.98.115 b.ppy.sh
+77.223.98.115 c.ppy.sh
+77.223.98.115 i.ppy.sh
+77.223.98.115 s.ppy.sh
+77.223.98.115 auth.ppy.sh
+77.223.98.115 sentry.ppy.sh
+77.223.98.115 auth-files.ppy.sh
 
 # Osu Lazer MultiPlayer
 77.223.98.115 spectator.ppy.sh
