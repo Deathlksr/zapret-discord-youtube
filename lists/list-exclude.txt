@@ -1,3 +1,4 @@
+anidb.net
 windows64.net
 newgrounds.com
 
@@ -114,4 +115,3 @@ t-bank-app.ru
 tochka-tech.com
 tochka.com
 vtb.ru
-steamcommunity.com
