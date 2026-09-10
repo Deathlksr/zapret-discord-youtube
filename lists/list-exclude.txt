@@ -1,4 +1,16 @@
-
+steampowered.com
+steamcommunity.com
+steamstatic.com
+steamcontent.com
+steamusercontent.com
+steamserver.net
+steam-chat.com
+steam-api.com
+steamdeck.com
+steamgames.com
+steam.tv
+s.team
+playartifact.com
 
 workupload.com
 anidb.net
