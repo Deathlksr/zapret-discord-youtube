@@ -1,3 +1,6 @@
+booth.pm
+*.booth.pm
+
 steampowered.com
 steamcommunity.com
 steamstatic.com
