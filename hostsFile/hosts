@@ -26,18 +26,7 @@
 185.199.108.133 private-user-images.githubusercontent.com
 
 # Osu Maps Download
-2.58.104.1 bm4.ppy.sh
-2.58.104.2 bm5.ppy.sh
-2.58.104.3 bm6.ppy.sh
-2.58.104.4 bm7.ppy.sh
-2.58.104.5 bm10.ppy.sh
-77.223.98.115 bm11.osu.ppy.sh
-77.223.98.115 bm14.osu.ppy.sh
-
-# Update Games
-77.223.98.115 m1.ppy.sh
-77.223.98.115 m2.ppy.sh
-77.223.98.115 m3.ppy.sh
+77.223.98.115 spectator.osu.ppy.sh m1.ppy.sh m2.ppy.sh m3.ppy.sh bm11.osu.ppy.sh bm14.osu.ppy.sh
 
 # Osu Others Tunnels
 77.223.98.115 notify.ppy.sh
