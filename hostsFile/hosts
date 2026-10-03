@@ -20,6 +20,9 @@
 #	127.0.0.1       localhost
 #	::1             localhost
 
+# Roblox Places
+18.65.39.105 tr.rbxcdn.com
+
 # GitHub Release
 185.199.109.133 raw.githubusercontent.com
 185.199.109.133 release-assets.githubusercontent.com
