@@ -28,23 +28,47 @@
 185.199.109.133 release-assets.githubusercontent.com
 185.199.108.133 private-user-images.githubusercontent.com
 
-# Osu Maps Download
-77.223.98.115 spectator.osu.ppy.sh m1.ppy.sh m2.ppy.sh m3.ppy.sh bm11.osu.ppy.sh bm14.osu.ppy.sh
-
-# Osu Others Tunnels
-77.223.98.115 notify.ppy.sh
-77.223.98.115 assets.ppy.sh
-77.223.98.115 a.ppy.sh
-77.223.98.115 b.ppy.sh
-77.223.98.115 c.ppy.sh
-77.223.98.115 i.ppy.sh
-77.223.98.115 s.ppy.sh
-77.223.98.115 auth.ppy.sh
-77.223.98.115 sentry.ppy.sh
-77.223.98.115 auth-files.ppy.sh
-
-# Osu Lazer MultiPlayer
-77.223.98.115 spectator.ppy.sh
+172.66.172.180 osu.ppy.sh
+172.66.172.180 irc.ppy.sh
+104.20.41.87 c.ppy.sh
+172.66.172.180 c1.ppy.sh
+172.66.172.180 c2.ppy.sh
+172.66.172.180 c3.ppy.sh
+172.66.172.180 c4.ppy.sh
+172.66.172.180 c5.ppy.sh
+172.66.172.180 c6.ppy.sh
+104.20.41.87 ce.ppy.sh
+172.66.172.180 a.ppy.sh
+104.20.41.87 s.ppy.sh
+172.66.172.180 i.ppy.sh
+104.17.147.22 bm4.ppy.sh
+104.17.147.22 bm5.ppy.sh
+104.17.147.22 bm6.ppy.sh
+104.17.147.22 bm7.ppy.sh
+104.17.147.22 bm10.ppy.sh
+45.40.145.4 bm6.ppy.sh
+54.39.132.83 bm10.ppy.sh
+66.70.176.133 bm11.ppy.sh
+142.44.214.45 bm12.ppy.sh
+135.125.223.151 bm13.ppy.sh
+51.83.140.7 bm14.ppy.sh
+51.38.54.128 bm15.ppy.sh
+37.139.15.128 m3.ppy.sh
+37.139.3.23 m2.ppy.sh
+162.243.70.14 m1.ppy.sh
+172.66.172.180 ppy.sh
+104.20.41.87 b.ppy.sh
+162.243.131.91 cho.ppy.sh
+172.66.172.180 assets.ppy.sh
+172.66.172.180 auth-files.ppy.sh
+104.20.41.87 auth.ppy.sh
+143.110.145.128 spectator.ppy.sh
+104.20.41.87 sentry.ppy.sh
+104.20.41.87 store.ppy.sh
+104.20.41.87 old.ppy.sh
+172.66.172.180 dev.ppy.sh
+172.66.172.180 sentry.ppy.sh
+172.66.172.180 notify.ppy.sh
 
 # Telegram
 149.154.167.220 zws4.web.telegram.org
